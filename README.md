@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm + Harshvardhan Gupta;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
-<h1 align="center">Hi 👋, I'm Harshvardhan Gupta</h1>
-<h2 align="center">A passionate learner 🧑🏻‍💻</h2>
+
+<h1 align="center">A passionate learner 🧑🏻‍💻</h1>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
