@@ -26,7 +26,7 @@
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/harshvardhan-gupta-19298b28b/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/_.simplehrsh._" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" /></a>
+<a href=https://www.instagram.com/_.simplyhrsh._/target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_2315000954" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111728.png" alt="Hackerrank" height="30" width="40" /></a>
 </p>
 
