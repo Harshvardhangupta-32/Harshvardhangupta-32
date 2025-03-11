@@ -82,7 +82,7 @@
 
 ### 🎧 Spotify Playing
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&count=6&width=600&unique=true" alt="Spotify Recently Played" />
+  <img src="https://github.com/Harshvardhangupta-32/Harshvardhangupta-32/blob/main/Screenshot%202025-03-11%20222413.png" />
 </p>
 
 ---
