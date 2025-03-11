@@ -60,11 +60,16 @@
   </a>
 </p>
 
+---
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshvardhangupta-32&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
-
-
-
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhangupta-32&theme=dark" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhangupta-32&layout=compact&theme=dark" alt="Top Languages" />
@@ -72,10 +77,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshvardhangupta-32&theme=algolia&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
-</p>
+
 
 ---
 
