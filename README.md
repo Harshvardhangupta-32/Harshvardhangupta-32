@@ -60,13 +60,11 @@
   </a>
 </p>
 
----
 
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhangupta-32&theme=dark" alt="GitHub Streak" />
-</p>
+
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhangupta-32&layout=compact&theme=dark" alt="Top Languages" />
